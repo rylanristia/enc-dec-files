@@ -2,7 +2,7 @@
 
 to start the program, open the terminal in root folder project and run a few commands seperately
 
-1. composer update
+1. composer update (if there's no vendor, then run "composer install")
 2. php artisan optimize
 3. php artisan serve
 
